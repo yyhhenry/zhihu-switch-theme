@@ -1,29 +1,29 @@
 {
-    "name": "zhihu-switch-theme",
-    "version": "0.0.0",
-    "license": "MIT",
-    "description": "Switch theme for zhihu.com",
-    "author": {
-        "name": "yyhhenry",
-        "email": "yyhhenry@foxmail.com"
-    },
-    "type": "module",
-    "scripts": {
-        "build": "vite build",
-        "preview": "vite preview",
-        "format": "prettier --write .",
-        "lint": "eslint --ext .ts --fix ."
-    },
-    "devDependencies": {
-        "@tsconfig/node20": "^20.1.2",
-        "@types/node": "^20.8.9",
-        "@typescript-eslint/eslint-plugin": "^6.9.0",
-        "@typescript-eslint/parser": "^6.9.0",
-        "@vue/tsconfig": "^0.4.0",
-        "eslint": "^8.52.0",
-        "prettier": "^3.0.3",
-        "typescript": "^5.2.2",
-        "vite": "^4.4.9",
-        "vite-plugin-banner": "^0.7.0"
-    }
+  "name": "zhihu-switch-theme",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Switch theme for zhihu.com",
+  "author": {
+    "name": "yyhhenry",
+    "email": "yyhhenry@foxmail.com"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write .",
+    "lint": "eslint --ext .ts --fix ."
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "@types/node": "^20.8.9",
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
+    "@vue/tsconfig": "^0.4.0",
+    "eslint": "^8.52.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9",
+    "vite-plugin-banner": "^0.7.0"
+  }
 }
