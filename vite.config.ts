@@ -13,6 +13,7 @@ export default defineConfig({
 // @description  ${pkg.description.replaceAll('\n', ' ')}
 // @author       ${pkg.author.email}
 // @match        https://www.zhihu.com/*
+// @match        https://zhuanlan.zhihu.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=zhihu.com
 // @grant        none
 // @noframes
